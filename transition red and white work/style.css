@@ -1,0 +1,512 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+  max-width: 1140px;
+   margin: 0px auto;   
+}
+.row{
+    display: flex ;
+   
+}
+
+.box{
+    width: 30%;
+    padding: 12px;
+    margin: 10px;
+   
+
+}
+.main{
+    overflow: hidden;
+}
+
+.img img:hover{
+    transform: scale(2);
+}
+
+
+.img img{
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    transition: all 2s;
+    
+}
+
+.box{
+    width:30%;
+    background-color: aqua;
+
+}
+
+.content p{
+    padding: 10px 0px;
+}
+
+.content{
+    overflow: hidden;
+}
+
+
+
+  
+  .box1{
+      width: 30%;
+      padding: 12px;
+      margin: 10px;
+  }
+  .main1{
+      overflow: hidden;
+  }
+  
+  .img1 img:hover{
+      transform: rotatex(360deg);
+  }
+  
+  
+  .img1 img{
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+      transition: all 2s;
+      
+  }
+  
+  .box1{
+      width:30%;
+      background-color: rgb(30, 54, 212);
+  
+  }
+  
+  .content1 p{
+      padding: 10px 0px;
+  }
+  
+  .content1{
+      overflow: hidden;
+  }
+
+
+  .box2{
+    width: 30%;
+    padding: 12px;
+    margin: 10px;
+}
+.main2{
+    overflow: hidden;
+}
+
+.img2 img:hover{
+    transform: translate(160px, 105%);
+}
+
+
+.img2 img{
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    transition: all 2s;
+    
+}
+
+.box2{
+    width:30%;
+    background-color: rgb(30, 160, 212);
+
+}
+
+.content2 p{
+    padding: 15px 0px;
+}
+
+.content2{
+    overflow: hidden;
+}
+
+  
+
+
+
+.container3{
+    max-width: 1140px;
+     margin: 0px auto;   
+  }
+  .row3{
+      display: flex ;
+     
+  }
+  
+  .box3{
+      width: 30%;
+      padding: 12px;
+      margin: 10px;
+     
+  
+  }
+  .main3{
+      overflow: hidden;
+  }
+  
+  .img3 img:hover{
+      transform: scaley(3);
+  }
+  
+  
+  .img3 img{
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+      transition: all 2s;
+      
+  }
+  
+  .box3{
+      width:30%;
+      background-color: rgb(169, 40, 212);
+  
+  }
+  
+  .content3 p{
+      padding: 10px 0px;
+  }
+  
+  .content3{
+      overflow: hidden;
+  }
+  
+  
+  
+    
+    .box4{
+        width: 30%;
+        padding: 12px;
+        margin: 10px;
+    }
+    .main4{
+        overflow: hidden;
+    }
+    
+    .img4 img:hover{
+        transform: rotatey(360deg);
+    }
+    
+    
+    .img4 img{
+        width: 100%;
+        height: 300px;
+        background-size: cover;
+        transition: all 2s;
+        
+    }
+    
+    .box4{
+        width:30%;
+        background-color: rgb(146, 4, 248);
+    
+    }
+    
+    .content4 p{
+        padding: 10px 0px;
+    }
+    
+    .content4{
+        overflow: hidden;
+    }
+  
+  
+    .box5{
+      width: 30%;
+      padding: 12px;
+      margin: 10px;
+  }
+  .main5{
+      overflow: hidden;
+  }
+  
+  .img6 img:hover{
+    transform: translatex(320px);
+  }
+  
+  
+  .img6 img{
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+      transition: all 2s;
+      
+  }
+  
+  .box5{
+      width:30%;
+      background-color: rgb(211, 13, 237);
+  
+  }
+  
+  .content5 p{
+      padding: 15px 0px;
+  }
+  
+  .content5{
+      overflow: hidden;
+  }
+  
+
+
+ 
+   .container7{
+    max-width: 1140px;
+     margin: 0px auto;   
+  }
+  .row7{
+      display: flex ;
+     
+  }
+  
+  .box7{
+      width: 30%;
+      padding: 12px;
+      margin: 10px;
+     
+  
+  }
+  .main7{
+      overflow: hidden;
+  }
+  
+  .img7 img:hover{
+      transform: scalex(3);
+  }
+  
+  
+  .img7 img{
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+      transition: all 2s;
+      
+  }
+  
+  .box7{
+      width:30%;
+      background-color: rgb(244, 181, 36);
+  
+  }
+  
+  .content8 p{
+      padding: 10px 0px;
+  }
+  
+  .content8{
+      overflow: hidden;
+  }
+  
+  
+  
+    
+    .box8{
+        width: 30%;
+        padding: 12px;
+        margin: 10px;
+    }
+    .main8{
+        overflow: hidden;
+    }
+    
+    .img8 img:hover{
+        transform: rotate(360deg);
+    }
+    
+    
+    .img8 img{
+        width: 100%;
+        height: 300px;
+        background-size: cover;
+        transition: all 2s;
+        
+    }
+    
+    .box8{
+        width:30%;
+        background-color: rgb(244, 241, 70);
+    
+    }
+    
+    .content8 p{
+        padding: 10px 0px;
+    }
+    
+    .content8{
+        overflow: hidden;
+    }
+  
+  
+  .main9{
+      overflow: hidden;
+  }
+  
+  .img9 img:hover{
+    transform: translatey(305px);
+  }
+  
+  
+  .img9 img{
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+      transition: all 2s;
+      
+  }
+  
+  .box9{
+      width:30%;
+      background-color: rgb(182, 232, 33);
+  
+  }
+  
+  .box9{
+    width: 30%;
+    padding: 12px;
+     margin: 10px;}
+  
+  .content9 p{
+      padding: 15px 0px;
+  }
+  
+  .content9{
+      overflow: hidden;
+  }
+  
+
+
+
+  .container10{
+    max-width: 1140px;
+     margin: 0px auto;   
+  }
+  .row10{
+      display: flex ;
+     
+  }
+  
+  .box10{
+      width: 30%;
+      padding: 12px;
+      margin: 10px;
+     
+  
+  }
+  .main10{
+      overflow: hidden;
+  }
+  
+  .img10 img:hover{
+    transform: skew(360deg,180deg);
+  }
+  
+  
+  .img10 img{
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+      transition: all 2s;
+      
+  }
+  
+  .box10{
+      width:30%;
+      background-color: rgb(247, 106, 144);
+  
+  }
+  
+  .content11 p{
+      padding: 10px 0px;
+  }
+  
+  .content11{
+      overflow: hidden;
+  }
+  
+  
+  
+    
+    .box11{
+        width: 30%;
+        padding: 12px;
+        margin: 10px;
+    }
+    .main11{
+        overflow: hidden;
+    }
+    
+    .img11 img:hover{
+        transform: skew(30deg,30deg);
+    }
+    
+    
+    .img11 img{
+        width: 100%;
+        height: 300px;
+        background-size: cover;
+        transition: all 2s;
+        
+    }
+    
+    .box11{
+        width:30%;
+        background-color: rgb(231, 78, 78);
+    
+    }
+    
+    .content11 p{
+        padding: 10px 0px;
+    }
+    
+    .content11{
+        overflow: hidden;
+    }
+  
+  
+  .main12{
+      overflow: hidden;
+  }
+  
+  .img12 img:hover{
+    transform: skewX(180deg);
+  }
+  
+  
+  .img12 img{
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+      transition: all 2s;
+      
+  }
+  
+  .box12{
+      width:30%;
+      background-color: rgb(244, 26, 87);
+  
+  }
+  
+  .box12{
+    width: 30%;
+    padding: 12px;
+     margin: 10px;}
+  
+  .content12 p{
+      padding: 15px 0px;
+  }
+  
+  .content12{
+      overflow: hidden;
+  }
+  
+
+    
+
+    
